@@ -3,6 +3,7 @@
 ## OBJETIVO DO PROJETO:
 Fazer segmentação de clientes com algorítmo de clusterização K-means.
 
+
 ## DADOS DO DATASET:
 
 - CustomerID: Identificador único atribuído a cada cliente.
@@ -15,6 +16,7 @@ Fazer segmentação de clientes com algorítmo de clusterização K-means.
 
 - Spending Score (1-100): Pontuação atribuída pelo shopping com base no
 comportamento e padrão de gastos do cliente.
+
 
 # ETAPAS DO PROJETO
 
@@ -33,11 +35,11 @@ comportamento e padrão de gastos do cliente.
 **Gráficos utilizados para avaliar modelo**
 
 
-# CONCLUSÃO: O modelo separou os dados em três clusters com base nas características dos dados:
+## CONCLUSÃO: O modelo separou os dados em três clusters com base nas características dos dados:
 
 <img width="528" height="203" alt="image" src="https://github.com/user-attachments/assets/336540cc-7c45-40cb-a1a5-ddfd4f4b3672" />
 
--**Explicação**
+- **Explicação**
 
 - O cluster '0' tem pessoas com a média de idade de 25 anos, que tem a renda média anual de 42 mil, com a pontuação de 53, consumo médio.
 - O cluster '1' tem pessoas com a média de idade de 32 anos, com renda anula média de 87 mil, e pontuação de 79, alto consumo.
