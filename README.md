@@ -4,6 +4,7 @@
 Fazer segmentação de clientes com algorítmo de clusterização K-means.
 
 
+
 ## DADOS DO DATASET:
 
 - CustomerID: Identificador único atribuído a cada cliente.
@@ -18,7 +19,8 @@ Fazer segmentação de clientes com algorítmo de clusterização K-means.
 comportamento e padrão de gastos do cliente.
 
 
-# ETAPAS DO PROJETO
+
+## ETAPAS DO PROJETO
 
 ## Etapa 1: Pré-processamento
 **Carregamento da base**
@@ -33,6 +35,7 @@ comportamento e padrão de gastos do cliente.
 
 ## Etapa 4: Validação do modelo
 **Gráficos utilizados para avaliar modelo**
+
 
 
 ## CONCLUSÃO: O modelo separou os dados em três clusters com base nas características dos dados:
